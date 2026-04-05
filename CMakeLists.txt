@@ -10,4 +10,5 @@ add_executable(NIEMO
     src/tensor.cpp
     src/matmul_op.cpp
     src/relu_op.cpp
+    
 )
