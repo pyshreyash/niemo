@@ -5,5 +5,5 @@ Current plan (Under Development):
 `Android App -> C++ Inference Engine -> Model Weights`
 
 ### Chronicles of NIEMO
-Initial attempt to make CPU, NPU, & GPU kernels 
+Initial attempt to make CPU, NPU, & GPU kernels <br>
 Porting PyTorch, and other framework models to NIEMO runtime compatible
